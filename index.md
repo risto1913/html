@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
 
-try this link: [testing link in app](dbnoapp://github.com/risto1913/html/edit/gh-pages/index.md) 
-an [actual dagbladet link](dbnoapp://www.dagbladet.no/studio/sportsstudio/307?post=41413)
+Front Page: [FRONT](dbnoapp://www.dagbladet.no/) 
+SPORTS STUDIO event [studio dagbladet link](dbnoapp://www.dagbladet.no/studio/sportsstudio/307?post=41413)
+SPORTS PAGE: [SPORT link](dbnoapp://www.dagbladet.no/studio/sportsstudio/307?post=41413)
